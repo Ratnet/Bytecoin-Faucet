@@ -4,7 +4,7 @@ This faucet runs on a linux environment with PHP and MYSQL, and it was tested on
 
 Faucet is set to work on the same server as bytecoin wallet and bytecoin daemon.
 
-First of all you need to create a database for the faucet to save all requests:
+First of all you need to create a new database and create this table on it for the faucet to save all requests:
 ```
 CREATE TABLE IF NOT EXISTS `payouts` (
 `id` bigint(20) unsigned NOT NULL,
@@ -25,7 +25,12 @@ Now for faucet to communicate with bytecoin wallet you need to run simplewallet 
 ./simplewallet --wallet-file=wallet.bin --pass=password --rpc-bind-port=8070 --rpc-bind-ip=127.0.0.1
 ```
 
-Note: Run this command after you already created a wallet.
+Note: Run this command after you already created a wallet with simplewallet commands.
+
+* wallet.bin needs to be the wallet file name that you enter when you created your wallet.
+* password needs to be the password to open your wallet
+* rpc-bind-port and rpc-bind-ip can be changed if so, you need to edit index.php and request.php (Please don't edit, as you may end opening the wallet rpc to the public)
+
 
 And bytecoin daemon as this:
 
@@ -33,8 +38,6 @@ And bytecoin daemon as this:
 ./bytecoind --rpc-bind-ip=127.0.0.1
 ```
 
-* wallet.bin needs to be the wallet file name that you enter when you created your wallet.
-* password needs to be the password to open your wallet
-* rpc-bind-port and rpc-bind-ip can be changed if so, you need to edit index.php and request.php (Please don't edit, as you may end opening the wallet rpc to the public)
+To keep bytecoind and simplewallet on background you can use screen command.
 
-You can also use screen program to keep the simplewallet and bytecoind running on background.
+After all this steps you should be ready to go ;)
