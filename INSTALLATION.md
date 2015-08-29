@@ -40,7 +40,7 @@ And bytecoin daemon as this:
 
 To keep bytecoind and simplewallet on background you can use screen command.
 
-Advertisements cant be edited on the index.php they are between this lines for an easy location:
+Advertisements can be edited on the index.php they are between this lines for an easy location:
 
            <!-- ADS ADS ADS ADS ADS ADS ADS ADS ADS -->
            <!-- ADS ADS ADS ADS ADS ADS ADS ADS ADS -->
