@@ -88,7 +88,7 @@
 				"destinations" => $destination,
 				"payment_id"=> $paymentID, 
 				"fee" => $transactionFee, 
-				"mixin"=>0, 
+				"mixin"=>6, 
 				"unlock_time" => 0
 				);
 				//print_r($peticion);
