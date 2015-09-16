@@ -19,4 +19,4 @@ Donations to Ratnet Personal Wallet for Developing:
 * Bitcoin: 1MXPDKMSbCr41n2imq2BEMivtu9SJyd4ES
 
 Donations to Ratnet's Bytecoin Faucet:
-* Bytecoin: 24gKv1yqZ2oZ7Ln4KWcL3q7D7CXibndxhDzLvrJxxw1x7tiaQ5euuduT9EkHzDta144vmwToddz9Khct4pqSVzuBCxgVTYP
+* Bytecoin: 28k3gEkoGvxPbR32hmN7oxE7vCWcDawssAu69oSA2SPRUbz55Buf7ytXQ9abaKewm1VxzCZDNmag4joqSVLSfiSCA5RKzgR
