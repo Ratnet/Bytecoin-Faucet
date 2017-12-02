@@ -13,10 +13,7 @@ https://bytecointalk.org/showthread.php?tid=72
 
 I developed this for free to help spread the word about Bytecoin but if you want to tip me, everything will be appreciated :D
 
-Donations to Ratnet Personal Wallet for Developing:
+Donations to Ratnet Personal Wallet and Faucet for Developing:
 
-* Bytecoin: 28qwqrRWSF7Ad8GjwUgR142yvhmnsa6GGbvf8KpxzWkqU1FEhK5LBijZhXseeQvDzij7cRETY3DPJ3e7opXQc5AhURdFt9U
-* Bitcoin: 1MXPDKMSbCr41n2imq2BEMivtu9SJyd4ES
-
-Donations to Ratnet's Bytecoin Faucet:
-* Bytecoin: 28k3gEkoGvxPbR32hmN7oxE7vCWcDawssAu69oSA2SPRUbz55Buf7ytXQ9abaKewm1VxzCZDNmag4joqSVLSfiSCA5RKzgR
+* Bytecoin: 24Cd68aDVYRTdxUntTQfvcAuEy7peGtA3JNRv6pToKrEBaK38Z82jqgWLyMx1UVRJ5AXmDKnmcY2TP8oknP6KSN6H6DefrK
+* Bitcoin: 1JyZyEoF8KMe1q2f9NZwELJgSpZtdBFSTU
